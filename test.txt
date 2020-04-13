@@ -1,0 +1,6 @@
+
+
+gotta use git remote -v to see if connecting to https or ssh
+
+
+
