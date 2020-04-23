@@ -4,3 +4,4 @@ gotta use git remote -v to see if connecting to https or ssh
 
 
 
+ This should be connected through ssh
